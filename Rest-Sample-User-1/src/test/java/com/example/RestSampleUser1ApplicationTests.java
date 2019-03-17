@@ -23,4 +23,11 @@ public class RestSampleUser1ApplicationTests {
 	public void contextLoads() {
 		System.out.println("thisi is test code");
 	}
+	
+	@Test
+	public void getLogin() {
+		System.out.println("login done");
+	}
+	
+	
 }
