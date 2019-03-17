@@ -38,4 +38,9 @@ public class RestSampleUser1ApplicationTests {
 	public void masterLogin() {
 		System.out.println("this is branch update");
 	}
+	
+	@Test
+	public void subbranchLogin() {
+		System.out.println("this is subbranch update");
+	}
 }
