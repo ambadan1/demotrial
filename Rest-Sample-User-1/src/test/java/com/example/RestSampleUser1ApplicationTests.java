@@ -25,9 +25,12 @@ public class RestSampleUser1ApplicationTests {
 	}
 	
 	@Test
-	public void getLogin() {
+  public void getLogin() {
 		System.out.println("login done");
 	}
-	
-	
+  
+  @Test
+	public void masterLogin() {
+		System.out.println("this is master login code");
+	}
 }
