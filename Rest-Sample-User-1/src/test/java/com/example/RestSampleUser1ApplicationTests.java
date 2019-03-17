@@ -18,5 +18,9 @@ public class RestSampleUser1ApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
+	
+	@Test
+	public void contextLoads() {
+		System.out.println("thisi is test code");
+	}
 }
