@@ -33,4 +33,9 @@ public class RestSampleUser1ApplicationTests {
 	public void masterLogin() {
 		System.out.println("this is master login code");
 	}
+	
+	@Test
+	public void masterLogin() {
+		System.out.println("this is branch update");
+	}
 }
